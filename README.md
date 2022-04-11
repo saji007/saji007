@@ -1,4 +1,4 @@
-### Hi there 👋, Satyajit Mondal
+### Hi there 👋
 #### Development and Design
 ![Development and Design](https://pbs.twimg.com/profile_banners/1211336743091204096/1649693212/1080x360)
 
