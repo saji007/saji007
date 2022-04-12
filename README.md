@@ -8,14 +8,9 @@ I'm Satyajit from India, and I'm a web developer/designer and programmer. I enjo
 Skills: Python / JS / HTML / CSS / Bootstrap
 
  
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satyajit-mondal-a5113a201/) 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/itz_bucks/)  [<img 
-
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Jitmond11358953)  [<img 
-
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saji007.github.io/mywebsite/)  
 
 
